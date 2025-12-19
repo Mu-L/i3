@@ -1,1 +1,0 @@
-fix crash when a container parent is focused and a tiling drag causes it to be killed
